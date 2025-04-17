@@ -1,45 +1,70 @@
-<h1 align="center">Hi there! 👋 I'm Aryan</h1>
-<h3 align="center">A B.Tech student at VIT Vellore (Graduating in 2025).</h3>
-<h4 align="center">I’m passionate about building impactful solutions, with a focus on full-stack development and leveraging cutting-edge technologies like **Java**, **Spring Boot**, **Vue.js**, and **MySQL** to create scalable applications. I enjoy solving problems through creative and efficient solutions.</h4>
+# Hey there! 👋 I'm Aryan Anand
 
----
-
-## 🚀 What I’m Up To  
-- **Building a Library Management System** with **Vue.js** and **Spring Boot** to manage books, users, and transactions in a library.  
-- **Exploring AI**: Currently working on a **PDF Assistant** using **LangChain** for question answering from PDF documents.
-- 🤝 **Collaborating**: Open to working on **web development**, **AI**, or **backend** projects that solve real-world problems.  
-
----
-
-## 🌐 Socials:
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-aranch2003/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aranch2003">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bct0227&label=Profile%20views&color=0e75b6&style=flat" alt="bct0227" />
 </p>
 
----
+## 🚀 About Me
+I'm a passionate Computer Science Engineering student deeply interested in **Internet of Things (IoT)**, **AI**, and **Edge Computing**. I love building smart systems that bridge the gap between hardware and software.
 
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+Currently, I'm diving deeper into:
+- 🛠️ **ESP32 + Cloud Integrations**
+- 🌐 Full-Stack Development (Spring Boot + Vue.js)
+- 🧠 AI x IoT Projects
+- 📚 CS Fundamentals & DSA
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Tech Stack
+
+**Languages & Frameworks**
+- Java, Python, JavaScript
+- Spring Boot, Vue.js, Node.js
+- HTML5, CSS3, Tailwind
+
+**IoT & Embedded**
+- Arduino, ESP32, Sensors & Actuators
+- Firebase, MQTT, Web Server over Wi-Fi
+
+**Tools & Platforms**
+- Git & GitHub
+- MySQL, MongoDB
+- Postman, VS Code, IntelliJ
+- StarUML, Figma
+
+---
+
+## 🧩 Projects I’m Proud Of
+
+- 🔍 **Plagiarism Checker** – Built using Python for academic integrity
+- 🌱 **Smart Farming Systems** – Includes automatic watering, harvesting, water level sensing
+- 🌐 **IoT Sensor Dashboard** – Real-time sensor data with Spring Boot & Vue.js
+- ✨ **Community Volunteering Revamp** – A clean and modern web app for organizing social work
+- 📘 **LangChain PDF Summarizer** – AI-powered tool to simplify learning
+
+> Want to check out more? Browse through my pinned repositories!
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aranch2003&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bct0227&show_icons=true&theme=tokyonight" alt="bct0227's GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranch2003&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bct0227&theme=tokyonight" alt="bct0227's GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bct0227&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
+---
+
+## 📬 Let's Connect!
+
+- 📫 Email: `your-email@example.com`
+- 🔗 LinkedIn: [linkedin.com/in/aryan-anand](https://www.linkedin.com/in/your-link)
+- 💬 Let's talk about IoT, AI, or full-stack apps!
+
+---
+
+_“Code like it's magic, debug like a detective.”_
+
