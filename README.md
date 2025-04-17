@@ -1,12 +1,11 @@
-<h1 align="center">Hi there! 👋 I'm Aryan Anand</h1>
-<h3 align="center">A pre-final-year Computer Science Engineering student specializing in IoT, AI, and Edge Computing.</h3>
-<h4 align="center">I’m passionate about building smart systems that blend <i>hardware</i> with <i>intelligence</i>, and I love solving real-world problems through innovation and code.</h4>
+<h1 align="center">Hi there! 👋 I'm Aryan Anand Chanduka</h1> 
+<h3 align="center">A pre-final-year Computer Science Engineering  student at VIT Vellore (Graduating in July 2026).</h3>
+<h4 align="center">I’m passionate about building impactful solutions that merge <i>innovation</i> with <i>scalability</i>, and I thrive on tackling challenges with a creative, problem-solving mindset.</h4>
 
 ---
 
 ## 🚀 What I’m Up To  
-- 🧠 Building an **AI-powered Plagiarism Checker** in Python using NLP & similarity models.  
-- 🌿 Developing **IoT-based Smart Farming Solutions** – including smart watering, harvesting, and monitoring systems using ESP32.  
+- I’m exploring IoT, fog, and edge computing—driven by genuine curiosity to see how they can transform real‑world systems.
 - 📊 Working on a **Vue + Spring Boot dashboard** for real-time sensor data visualization.  
 - 🤝 Always open to collaborating on **embedded systems**, **full-stack apps**, or **AI+IoT hybrids**!
 
@@ -39,4 +38,12 @@
   <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%232076B6.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/thymeleaf-%2320C8A2.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/cassandra-%23F8B8B6.svg?style=for-the-badge&logo=cassandra&logoColor=black" />
+  <img src="https://img.shields.io/badge/couchdb-%23E98E07.svg?style=for-the-badge&logo=couchdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/vuetify-%23323330.svg?style=for-the-badge&logo=vuetify&logoColor=%23FF5722" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
