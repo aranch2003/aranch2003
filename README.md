@@ -1,70 +1,48 @@
-# Hey there! 👋 I'm Aryan Anand
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bct0227&label=Profile%20views&color=0e75b6&style=flat" alt="bct0227" />
-</p>
-
-## 🚀 About Me
-I'm a passionate Computer Science Engineering student deeply interested in **Internet of Things (IoT)**, **AI**, and **Edge Computing**. I love building smart systems that bridge the gap between hardware and software.
-
-Currently, I'm diving deeper into:
-- 🛠️ **ESP32 + Cloud Integrations**
-- 🌐 Full-Stack Development (Spring Boot + Vue.js)
-- 🧠 AI x IoT Projects
-- 📚 CS Fundamentals & DSA
+<h1 align="center">Hi there! 👋 I'm Aryan Anand</h1>
+<h3 align="center">A pre-final-year Computer Science Engineering student specializing in IoT, AI, and Edge Computing.</h3>
+<h4 align="center">I’m passionate about building smart systems that blend <i>hardware</i> with <i>intelligence</i>, and I love solving real-world problems through innovation and code.</h4>
 
 ---
 
-## 🔧 Tech Stack
-
-**Languages & Frameworks**
-- Java, Python, JavaScript
-- Spring Boot, Vue.js, Node.js
-- HTML5, CSS3, Tailwind
-
-**IoT & Embedded**
-- Arduino, ESP32, Sensors & Actuators
-- Firebase, MQTT, Web Server over Wi-Fi
-
-**Tools & Platforms**
-- Git & GitHub
-- MySQL, MongoDB
-- Postman, VS Code, IntelliJ
-- StarUML, Figma
+## 🚀 What I’m Up To  
+- 🧠 Building an **AI-powered Plagiarism Checker** in Python using NLP & similarity models.  
+- 🌿 Developing **IoT-based Smart Farming Solutions** – including smart watering, harvesting, and monitoring systems using ESP32.  
+- 📊 Working on a **Vue + Spring Boot dashboard** for real-time sensor data visualization.  
+- 🤝 Always open to collaborating on **embedded systems**, **full-stack apps**, or **AI+IoT hybrids**!
 
 ---
 
-## 🧩 Projects I’m Proud Of
-
-- 🔍 **Plagiarism Checker** – Built using Python for academic integrity
-- 🌱 **Smart Farming Systems** – Includes automatic watering, harvesting, water level sensing
-- 🌐 **IoT Sensor Dashboard** – Real-time sensor data with Spring Boot & Vue.js
-- ✨ **Community Volunteering Revamp** – A clean and modern web app for organizing social work
-- 📘 **LangChain PDF Summarizer** – AI-powered tool to simplify learning
-
-> Want to check out more? Browse through my pinned repositories!
-
----
-
-## 📈 GitHub Stats
-
+## 🌐 Socials:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bct0227&show_icons=true&theme=tokyonight" alt="bct0227's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bct0227&theme=tokyonight" alt="bct0227's GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bct0227&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <a href="https://www.linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📬 Let's Connect!
-
-- 📫 Email: `your-email@example.com`
-- 🔗 LinkedIn: [linkedin.com/in/aryan-anand](https://www.linkedin.com/in/your-link)
-- 💬 Let's talk about IoT, AI, or full-stack apps!
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/mqtt-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-_“Code like it's magic, debug like a detective.”_
-
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aranch2003&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranch2003&layout=compact&theme=tokyonight" />
+</p>
